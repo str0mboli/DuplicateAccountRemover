@@ -74,3 +74,7 @@ ALREADY SEEN (Already investigated)
 - The master list resets automatically each day (no manual cleanup needed)
 - Accounts are normalized (case-insensitive, invisible characters removed)
 - Press Enter to close the terminal window when done
+
+##Example
+
+![image](https://github.com/str0mboli/DuplicateAccountRemover/blob/main/Example.jpg)
