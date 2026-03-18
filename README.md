@@ -75,6 +75,6 @@ ALREADY SEEN (Already investigated)
 - Accounts are normalized (case-insensitive, invisible characters removed)
 - Press Enter to close the terminal window when done
 
-##Example
+## Example Terminal
 
 ![image](https://github.com/str0mboli/DuplicateAccountRemover/blob/main/Example.jpg)
